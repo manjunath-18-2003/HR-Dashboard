@@ -56,6 +56,6 @@ This dashboard is useful for HR Teams, Analysts, and Leadership to make data-dri
 
 ## 📸 Dashboard Preview
 
-Example: ![Dashboard Preview](https://github.com/manjunath-18-2003/HR-Dashboard/blob/main/Snapshot%202.png)
-Example:![Dashboard Preview]()
-Example:![Dashboard Preview](https://github.com/manjunath-18-2003/powerBi/blob/main/Screenshot%202025-12-02%20202354.png)
+Example: ![Dashboard Preview]()
+Example:![Dashboard Preview](https://github.com/manjunath-18-2003/HR-Dashboard/blob/main/Snapshot%202.png)
+Example:![Dashboard Preview](https://github.com/manjunath-18-2003/HR-Dashboard/blob/main/Snapshot%203.png)
